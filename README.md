@@ -3,11 +3,9 @@
 
 Building a python (tkinter) application to understand the changes in the barometric pressure over a period of time gives insights into any abrupt changes in the environmental conditions.
 
-In this analysis:
+Data Source: Environment data captured from Lake Pend Orieille in North Idaho
 
-first, I will be importing environment data captured from Lake Pend Orieille in North Idaho
-
-Key Data variables for the analysis include date, time, air temperature, barometric pressure, dew point
+Key Data variables: date, time, air temperature, barometric pressure, dew point
 
 Analysis Steps:
 
